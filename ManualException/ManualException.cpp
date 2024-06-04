@@ -17,3 +17,5 @@ int main()
         /* jika selain int maka block ini akan dieksekusi */
             cout << "default pengecualian dieksekusi" << endl;
     }
+    return 0;
+}
